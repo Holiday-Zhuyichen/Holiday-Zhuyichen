@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Holiday-Zhuyichen
-- 👀 I’m interested in Python coding
+- 👀 I’m interested in Python, c++ and html coding
 - 🌱 I’m currently learning class and raise
 - 💞️ I’m looking to collaborate on continue learning
 - 📫 How to reach me is to continue learning just like me
